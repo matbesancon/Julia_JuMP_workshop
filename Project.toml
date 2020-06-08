@@ -1,0 +1,15 @@
+name = "JuliaEME"
+uuid = "9556c435-498e-46ec-a984-14d32d50d28b"
+authors = ["Mathieu Besançon <mathieu.besancon@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Clp = "e2554f3b-3117-50c0-817c-e040a3ddf72d"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+GraphPlot = "a2cc645c-3eea-5389-862e-a155d0052231"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SymEngine = "123dc426-2d89-5057-bbad-38513e3affd8"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
